@@ -1,0 +1,11 @@
+# Core dependencies (only needed if importing data, pure description works without any)
+
+# PDF annotation extraction + literature parsing
+PyMuPDF>=1.23.0
+
+# Word track changes parsing
+python-docx>=1.1.0
+lxml>=5.0.0
+
+# Outlook .msg email parsing (optional)
+extract-msg>=0.48.0
