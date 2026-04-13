@@ -39,7 +39,7 @@ Your mentor graduated, moved to another institution, or retired. But the way the
 
 | Command | What it does |
 |---------|-------------|
-| `/create-mentor` | Guided setup — collects data, runs analysis, generates your mentor Skill |
+| `/distill-my-mentor` | Guided setup — collects data, runs analysis, generates your mentor Skill |
 | `/{slug}` | Daily conversation — talk through research ideas as if with your mentor |
 | `/{slug}-review` | Paper review — annotation-style feedback in their voice |
 | `/{slug}-rewrite` | Demo rewrite — rewrites your paragraphs in their academic style |

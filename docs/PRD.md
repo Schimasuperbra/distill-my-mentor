@@ -10,7 +10,7 @@ Inspired by [ex-skill](https://github.com/therealXiaomanChu/ex-skill) and [dr-cl
 
 ## Core Features
 
-### 1. Mentor Skill creation (/create-mentor)
+### 1. Mentor Skill creation (/distill-my-mentor)
 - **Online research**: Input mentor name + institution; auto-searches Google Scholar, faculty pages, interviews, etc. to generate a baseline profile
 - **Data collection**: Guided conversational intake for mentor style, supervision approach, catchphrases, etc.
 - **Data import**: Supports WeChat/QQ/DingTalk/Feishu chat logs, email (.eml/.mbox/.msg), paper annotations (PDF annotations / Word track changes), literature folders (PDF directory), social media, photos
