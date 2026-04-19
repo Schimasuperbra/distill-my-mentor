@@ -280,7 +280,7 @@ This project builds on the shoulders of two earlier Skills:
 
 **[ex-skill](https://github.com/therealXiaomanChu/ex-skill)** — the original "distill a person into a Skill" framework that this project used as its rewrite foundation. The chat log parsers (`wechat_parser.py`, `qq_parser.py`, `social_parser.py`, `photo_analyzer.py`) are adapted from ex-skill's data pipeline.
 
-**[dr-claw](https://github.com/OpenLAIR/dr-claw/)** — an earlier academic mentor Skill whose architecture and prompt design informed the three-engine structure (Guidance + Style + Thinking Framework) used here.
+**[dr-claw](https://github.com/OpenLAIR/dr-claw/)** — an autoreaseach project inculding the architecture and prompt design informed the three-engine structure (Guidance + Style + Thinking Framework) used here.
 
 If you find this project useful, consider starring the originals too.
 
